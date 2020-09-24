@@ -4,7 +4,10 @@ We then calculated the 7 day moving average of closing prices and z-scores of th
 
 Quantopian's IDE was used to run this, so the code can only be run in Quantopian's IDE. 
 
-Sharpe Ratio: .92
+Sharpe Ratio: .79
+
+Alpha: .07
+
 Total Returns: 230.24%
-Volatility: .18
-Beta to SPY: .7
+
+Beta: .64
