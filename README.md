@@ -6,10 +6,10 @@ Quantopian's IDE was used to run this, so the code can only be run in Quantopian
 
 Performance Metrics: 
   
-  Sharpe Ratio: .79
+    Sharpe Ratio: .79
 
-  Alpha: .07
+    Alpha: .07
 
-  Total Returns: 230.24%
+    Total Returns: 230.24%
 
-  Beta: .64
+    Beta: .64
